@@ -1,0 +1,16 @@
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\bin\Debug\net8.0\Naxxum.JobyHunter.Authentication.Application.deps.json
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\bin\Debug\net8.0\Naxxum.JobyHunter.Authentication.Application.dll
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\bin\Debug\net8.0\Naxxum.JobyHunter.Authentication.Application.pdb
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\bin\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.dll
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\bin\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.pdb
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Application.csproj.AssemblyReference.cache
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Application.AssemblyInfoInputs.cache
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Application.AssemblyInfo.cs
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Application.csproj.CoreCompileInputs.cache
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Application.sourcelink.json
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\obj\Debug\net8.0\Naxxum.J.7A9EFF83.Up2Date
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Application.dll
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\obj\Debug\net8.0\refint\Naxxum.JobyHunter.Authentication.Application.dll
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Application.pdb
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Application\obj\Debug\net8.0\ref\Naxxum.JobyHunter.Authentication.Application.dll

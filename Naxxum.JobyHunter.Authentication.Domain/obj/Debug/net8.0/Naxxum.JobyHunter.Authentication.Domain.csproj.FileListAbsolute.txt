@@ -1,0 +1,13 @@
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\bin\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.deps.json
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\bin\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.dll
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\bin\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.pdb
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.csproj.AssemblyReference.cache
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.AssemblyInfoInputs.cache
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.AssemblyInfo.cs
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.csproj.CoreCompileInputs.cache
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.sourcelink.json
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.dll
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\obj\Debug\net8.0\refint\Naxxum.JobyHunter.Authentication.Domain.dll
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\obj\Debug\net8.0\Naxxum.JobyHunter.Authentication.Domain.pdb
+G:\my_projects\PFE-JobyHunter\JobyHunter-Back\Naxxum.JobyHunter.Authentication.Domain\obj\Debug\net8.0\ref\Naxxum.JobyHunter.Authentication.Domain.dll
